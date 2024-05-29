@@ -850,6 +850,41 @@ http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
 http://111.230.195.119:80/香蕉哥/tvn/hls.m3u8
 #EXTINF:-1 group-title="国际频道",JTBC
 http://111.230.195.119:80/香蕉哥/jtbc/hls.m3u8
+#EXTINF:-1 group-title="国际频道",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="国际频道",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="国际频道",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="国际频道",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="国际频道",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="国际频道",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="国际频道",NHK WORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="国际频道",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="国际频道",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="国际频道",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="国际频道",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="国际频道",八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="国际频道",八大第1台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="国际频道",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="国际频道",AMC電影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="国际频道",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="国际频道",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+
 
 #EXTINF:-1 group-title="国际频道",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
