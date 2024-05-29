@@ -294,7 +294,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8
 #EXTINF:-1 group-title="综合频道",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226304/index.m3u8
 
-#EXTINF:-1 group-title="北京频道",北京新闻官方
+#EXTINF:-1 group-title="北京频道",北京新闻
 http://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 group-title="北京频道",北京纪实科教
 http://118.144.105.57:91/live/BTVKJhd-5M/live.m3u8
@@ -328,24 +328,6 @@ http://124.205.11.246:91/live/BTVCJhd-5M/live.m3u8
 http://124.205.11.202:91/live/BTVCJ-1500k/live.m3u8
 #EXTINF:-1 group-title="北京频道",北京国际
 http://124.205.11.202:91/live/BTVGJ-1500k/live.m3u8
-
-#EXTINF:-1 group-title="上海移动内网",东方影视
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
-#EXTINF:-1 group-title="上海移动内网",五星体育
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 group-title="上海移动内网",上海新闻综合
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 group-title="上海移动内网",上海都市频道
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
-#EXTINF:-1 group-title="上海移动内网",上海第一财经
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
-#EXTINF:-1 group-title="上海移动内网",上海纪实人文
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1 group-title="上海移动内网",上海外语频道
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001051/index.m3u8
-#EXTINF:-1 group-title="上海移动内网",上海教育频道
-http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001053/index.m3u8
-
 
 #EXTINF:-1 group-title="浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
