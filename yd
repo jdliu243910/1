@@ -369,6 +369,22 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 
 广东频道,#genre#
+广东卫视,http://14.145.141.101:8081/hls/29/index.m3u8
+广东珠江高清,http://14.145.141.101:8081/hls/23/index.m3u8
+广东体育高清,http://14.145.141.101:8081/hls/24/index.m3u8
+广东经济高清,http://14.145.141.101:8081/hls/28/index.m3u8
+广东民生,http://14.145.141.101:8081/hls/65/index.m3u8
+广东影视,http://14.145.141.101:8081/hls/25/index.m3u8
+广东少儿,http://14.145.141.101:8081/hls/26/index.m3u8
+广州综合,http://14.145.141.101:8081/hls/19/index.m3u8
+广州影视,http://14.145.141.101:8081/hls/20/index.m3u8
+广州新闻,http://14.145.141.101:8081/hls/21/index.m3u8
+广州竞赛,http://14.145.141.101:8081/hls/22/index.m3u8
+翡翠台,http://14.145.141.101:8081/hls/30/index.m3u8
+明珠台,http://14.145.141.101:8081/hls/31/index.m3u8
+澳视澳门,http://14.145.141.101:8081/hls/32/index.m3u8
+凤凰中文,http://14.145.141.101:8081/hls/33/index.m3u8
+
 广东珠江,http://183.236.32.24:9901/hls/1036/index.m3u8
 广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
 广东公共,http://183.236.32.24:9901/hls/1038/index.m3u8
